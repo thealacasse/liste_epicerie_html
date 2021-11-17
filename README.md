@@ -1,2 +1,2 @@
-# liste_-picerie_html
-Comment faire une liste d'épicerie en HTML
+# Comment faire une lioste d'épicerie en langage HTML?
+![photo panier épicerie](medias/
