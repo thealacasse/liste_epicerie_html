@@ -1,4 +1,4 @@
-# Comment faire une liste d'épicerie en langage HTML?
+# Comment faire une liste en langage HTML?
 ### Voici cinq étapes simples pour y parvenir
 ## Étape 1
 #### Ouvrir Visual Studio Code
