@@ -1,5 +1,5 @@
 # Comment faire une liste d'épicerie en langage HTML?
-### Voici quelques étapes simples pour y parvenir
+### Voici cinq étapes simples pour y parvenir
 ## Étape 1
 #### Ouvrir Visual Studio Code
 
@@ -18,7 +18,12 @@
 >-header
 
 ## Étape 3
-#### Écrire les balises requises pour créer une structure dan Visual Studio Code
+#### Écrire les balises requises pour créer une structure de base dans Visual Studio Code
 >Comme ci-dessous
 
 ![tuto_etp_3](medias/2021_11_17_23_01_33.mov)
+
+## Étape 4
+#### Se familiariser avec les balises ul (unordered list) et li (liste) puis insérer ces balises dans le <body> de la structure commencée dans VScode
+  
+![tuto_etp_4](
