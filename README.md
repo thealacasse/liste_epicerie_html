@@ -32,5 +32,5 @@ https://user-images.githubusercontent.com/93718457/142352797-9b1e579f-689e-49bf-
 #### Vérification de la liste sur W3Schools
 >Comme ci-dessous
 
-  
+
   
