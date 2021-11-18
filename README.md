@@ -24,7 +24,7 @@
 ![tuto_etp_3](medias/2021_11_17_23_01_33.mov)
 
 ## Étape 4
-#### Se familiariser avec les balises ul (unordered list) et li (liste) puis insérer ces balises dans le <body> de la structure commencée dans VScode
+#### Se familiariser avec les balises ul (unordered list) et li (liste) puis insérer ces balises dans le body de la structure commencée dans VScode
 
 https://user-images.githubusercontent.com/93718457/142352797-9b1e579f-689e-49bf-af71-b5c91025bfa6.mov
   
