@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/93718457/142352797-9b1e579f-689e-49bf-
 #### Vérification de la liste sur W3Schools
 >Comme ci-dessous
 
-https://github.com/thealacasse/liste_epicerie_html/blob/main/medias/2021_11_17_23_54_11.mov
+
   
   
 
