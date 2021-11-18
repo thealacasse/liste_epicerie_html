@@ -21,4 +21,4 @@
 #### Écrire les balises requises pour créer une structure dan Visual Studio Code
 >Comme ci-dessous
 
-![tuto_etp_3](medias/
+![tuto_etp_3](medias/2021_11_17_23_01_33.mov)
